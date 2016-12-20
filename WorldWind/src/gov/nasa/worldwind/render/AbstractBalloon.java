@@ -17,7 +17,7 @@ import gov.nasa.worldwind.util.*;
  */
 public abstract class AbstractBalloon extends WWObjectImpl implements Balloon
 {
-    String s1 = "To catch in the Pull Request";
+    String s1 = "To catch in the Pull Request in the PR Branch";
     protected boolean alwaysOnTop = false;
     protected boolean pickEnabled = true;
     protected Object delegateOwner;
