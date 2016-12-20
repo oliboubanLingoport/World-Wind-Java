@@ -3,8 +3,8 @@
      is preserved -->
 <gzproject>
   <login>
-    <username>litedemo@lingoport.com</username>
-    <password>fordemonstrationpurposes</password>
+    <username></username>
+    <password></password>
     <server>https://www.globalyzer.com/gzserver</server>
     <!-- Proxy Settings may Optionally go Here -->
   </login>
@@ -19,18 +19,16 @@
       <!-- create and execute a single scan with this info -->
       <scan-name>HTML Basic Scan</scan-name>
       <ruleset-name>ww-Html-Demo</ruleset-name>
-      <ruleset-owner>masnes@lingoport.com</ruleset-owner>
+      <ruleset-owner>demo@lingoport.com</ruleset-owner>
       <scan-items>
-          <item>WorldWind/src/overview.html</item>
       </scan-items>
     </scan>
     <scan>
       <!-- create and execute a single scan with this info -->
       <scan-name>Java Basic Scan</scan-name>
       <ruleset-name>ww-Java-Demo</ruleset-name>
-      <ruleset-owner>masnes@lingoport.com</ruleset-owner>
+      <ruleset-owner>demo@lingoport.com</ruleset-owner>
       <scan-items>
-          <item>WorldWind/src/gov/nasa/worldwind/</item>
       </scan-items>
     </scan>
   </scans>
